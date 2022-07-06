@@ -1,0 +1,11 @@
+Variables: Es un elemento que almacena datos y puede cambiar durante la ejecución de un programa.
+
+Strings: Variables que almacenan texto que guardan todo lo escrito dentro de comillas y al invocarlo se mostrará tal y cómo están guardadas.
+
+Funciones: Trozo de código informático con un nombre definido, puede recibir argumentos para llevar a cabo las funciones contenidas dentro de 
+esta y retorna un valor al finalizar.
+
+Declaraciones if: También conocidas como "puertas lógicas". Permiten controlar el flujo del código al ejecutar ciertas partes de este al cumplir
+ciertas condiciones, y en caso de que estas no se cumplan pueden contener una declaración para también ejecutar código.
+
+Valores booleanos: Valores que indican únicamente dos opciones: verdadero o falso, no hay un tercer valor.
