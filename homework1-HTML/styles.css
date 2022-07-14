@@ -1,0 +1,40 @@
+body{
+    background-image: url(../homework/fondo.jpg);
+    background-attachment: fixed;
+}
+
+/** {
+    -webkit-box-sizing: border-box;
+       -moz-box-sizing: border-box;
+            box-sizing: border-box;
+  }*/
+
+h1{
+ color: #86131c;
+ }
+
+img{
+    max-width: 50%;
+}
+
+#thirdDiv{
+    /*width: 500px;
+    height: 600px;*/
+    background-color: #cbc9c5;
+    border: #2a2b2a;
+    border-style: dashed;
+    border-width: 15px;
+}
+
+#spanId{
+    font-size: 18px;
+    margin: 50px;
+}
+
+#thirdDiv, #divClass{
+    margin: 0 auto;
+    padding: 50px;
+    text-align: center;
+    max-width: 50%;
+}
+
